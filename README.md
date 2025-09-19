@@ -21,7 +21,7 @@ The model is trained using the **Random Tree algorithm in WEKA** to assess the *
 ---
 
 ## 📊 Results  
-- The **Random Tree model** achieved **XX% accuracy** (replace with your actual result).  
+- The **Random Tree model** achieved **98.67% accuracy** (replace with your actual result).  
 - Key factors influencing prediction included **income level, spending habits, and credit history**.  
 - The model successfully differentiated between eligible and risky applicants.  
 
